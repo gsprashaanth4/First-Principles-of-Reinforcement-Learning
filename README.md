@@ -31,7 +31,7 @@ n-step TD-Q:
 
 Both algorithms are trained on custom GridWorld environments with obstacles, terminal states and discrete movement actions.
 
-Monte Carlo training:
+Monte Carlo training: \
 ![MC](https://github.com/gsprashaanth4/First-Principles-of-Reinforcement-Learning/blob/main/media/monte.gif)
 
 n-step TD-Q training:
