@@ -1,5 +1,9 @@
 __pycache__/
 venv/
-monte.py
 TD_ESARSA.py
 TD_SARSA.py
+
+test.py
+TD_Q.py
+TD_Q_.py
+TD_Q_ copy.py
